@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "montecarlo", "montecarlo\montecarlo.vcxproj", "{2E44F3BD-05D0-4C47-B205-F6AC6BFFAE22}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gradient", "gradient\gradient.vcxproj", "{62F6695D-D773-4675-AD05-DC0948049DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E44F3BD-05D0-4C47-B205-F6AC6BFFAE22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E44F3BD-05D0-4C47-B205-F6AC6BFFAE22}.Debug|Win32.Build.0 = Debug|Win32
+		{2E44F3BD-05D0-4C47-B205-F6AC6BFFAE22}.Release|Win32.ActiveCfg = Release|Win32
+		{2E44F3BD-05D0-4C47-B205-F6AC6BFFAE22}.Release|Win32.Build.0 = Release|Win32
+		{62F6695D-D773-4675-AD05-DC0948049DCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62F6695D-D773-4675-AD05-DC0948049DCE}.Debug|Win32.Build.0 = Debug|Win32
+		{62F6695D-D773-4675-AD05-DC0948049DCE}.Release|Win32.ActiveCfg = Release|Win32
+		{62F6695D-D773-4675-AD05-DC0948049DCE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
